@@ -28,8 +28,6 @@ The architecture (Data flow) used in this project uses different different tools
 # Dataset Used 
 The Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
 
-Dataset link: [Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-
 # Tools and technologies used in this project
 
 1. **BigQuery (GCP)** - BigQuery is a fully managed, serverless data warehouse and analytics platform offered by Google Cloud. It is designed for storing and analyzing large datasets in a scalable and cost-effective manner. BigQuery is part of the Google Cloud Platform (GCP) and is often used for a wide range of data processing and analysis tasks, including business intelligence, data warehousing, data exploration, and machine learning.
